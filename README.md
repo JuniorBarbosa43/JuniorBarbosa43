@@ -27,19 +27,18 @@ Atualmente, busco sempre aprimorar minhas habilidades e contribuir para projetos
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 📈 **Ferramentas de Marketing Digital & BI**
+### 📈 **Ferramentas de Marketing Digital, BI & CRM**
 ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white)
 ![Google Ads](https://img.shields.io/badge/Google%20Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white)
 ![Facebook Ads](https://img.shields.io/badge/Facebook%20Ads-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white)
+![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![RD Station](https://img.shields.io/badge/RD%20Station-3659B5?style=for-the-badge&logoColor=white)
 
 ---
 
 🚀 **Vamos conectar?**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/andersonbarbosajr/)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JuniorBarbosa43)
-
-<p>
-    <img src="https://github-profile-trophy.vercel.app/?username=JuniorBarbosa43&theme=darkhub" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/andersonbarbosajr/)  
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JuniorBarbosa43)  
