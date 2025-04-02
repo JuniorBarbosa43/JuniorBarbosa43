@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Olá! Seja bem-vindo ao meu perfil!  
 
-<!--
-**JuniorBarbosa43/JuniorBarbosa43** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um profissional com experiência em **desenvolvimento de software** e **marketing digital**, combinando habilidades técnicas e estratégicas para criar soluções eficientes. Tenho conhecimento em **Java, C, JavaScript, HTML, CSS, PHP e bancos de dados**, o que me permite atuar tanto no **back-end** quanto no **front-end**.  
 
-Here are some ideas to get you started:
+Além disso, minha trajetória no **marketing digital** fortaleceu minha capacidade de análise de dados, segmentação estratégica e comunicação eficaz, habilidades que aplico na resolução de problemas e no suporte a usuários.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente, busco sempre aprimorar minhas habilidades e contribuir para projetos inovadores!  
+
+📊 **Linguagens mais usadas:**  
+<p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorBarbosa43&layout=compact&" />
+</p>
+
+🚀 **Vamos conectar?**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/seu-usuario/)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JuniorBarbosa43)
