@@ -8,7 +8,7 @@ Atualmente, busco sempre aprimorar minhas habilidades e contribuir para projetos
 
 📊 **Linguagens mais usadas:**  
 <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorBarbosa43&layout=compact&hide=html" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorBarbosa43&layout=compact&hide=html&cache_seconds=86400" />
 </p>
 ---
 
