@@ -7,9 +7,7 @@ Além disso, minha trajetória no **marketing digital** fortaleceu minha capacid
 Atualmente, busco sempre aprimorar minhas habilidades e contribuir para projetos inovadores!  
 
 📊 **Linguagens mais usadas:**  
-<p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorBarbosa43&layout=compact&hide=html" />
-</p>
+
 
 ---
 
