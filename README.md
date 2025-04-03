@@ -7,8 +7,9 @@ Além disso, minha trajetória no **marketing digital** fortaleceu minha capacid
 Atualmente, busco sempre aprimorar minhas habilidades e contribuir para projetos inovadores!  
 
 📊 **Linguagens mais usadas:**  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&hide=html,glsl,astro,makefile,rust,go,python,shell,lua)
-
+<p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorBarbosa43&layout=compact&hide=html" />
+</p>
 ---
 
 ## 🚀 **Linguagens e Tecnologias**
